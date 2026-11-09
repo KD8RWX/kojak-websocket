@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.log.*
+.DS_Store
+capture_*.bmp
+server-backup.py
